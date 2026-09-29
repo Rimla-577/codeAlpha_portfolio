@@ -3,7 +3,7 @@
 A responsive personal portfolio website built with HTML, CSS and JavaScript.
 
 ## Live Demo
-https://aapka-username.github.io/portfolio/
+https://Rimla-577.github.io/portfolio/
 
 ## Features
 - Responsive design (mobile, tablet, desktop)
